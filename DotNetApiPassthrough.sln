@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiPassthrough", "DotNetApiPassthrough\DotNetApiPassthrough.csproj", "{892D0CD3-B0A1-4908-9756-2497AB195AEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{63DA60E2-620C-4DB9-879F-A43BE8277F9A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892D0CD3-B0A1-4908-9756-2497AB195AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D0CD3-B0A1-4908-9756-2497AB195AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D0CD3-B0A1-4908-9756-2497AB195AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D0CD3-B0A1-4908-9756-2497AB195AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
